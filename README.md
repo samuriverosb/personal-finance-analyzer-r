@@ -4,7 +4,7 @@ Personal Finance Analyzer. This program reads transaction data from a CSV file a
 
 The program uses the facility that R provides of moving CSV files into dataframes, and also the easy way of analyzing the data in them.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5-11BwpEpv4)
 
 # Development Environment
 
